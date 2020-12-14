@@ -19,13 +19,18 @@ _Interlinguas_ é um projeto que tem como objetivo ajudar no aprendizado de uma 
 
 É um site no qual você terá a possibilidade de aprender uma lingua em uma dada área específica.
 <br>
-_Funcionalidade_:
+_Funcionalidades_:
 
+- Log in
+- Sign up
 - Comunidade
   - Comunidade geral
   - Criar uma comunidade
+- O que é
+  - Nossa comunidade 
 - Principais linguas
   - Escolher uma lingua
+
 
 ## ⛏ Ferramentas usadas:
 
