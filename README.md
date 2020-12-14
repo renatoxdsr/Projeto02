@@ -18,6 +18,7 @@ _Interlinguas_ é um projeto que tem como objetivo ajudar no aprendizado de uma 
 ## 🖼 O que é o site?
 
 É um site no qual você terá a possibilidade de aprender uma lingua em uma dada área específica.
+<br>
 _Funcionalidade_:
 
 - Comunidade
