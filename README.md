@@ -33,6 +33,6 @@ _Funcionalidade_:
 
 ##👨‍💻👨‍💻👨‍💻 Desenvolvedores do projeto:
 
-- Helio Siqueira (<a href="mailto:helio.siqueira@academico.ifpb.edu.br"> E-mail</a>)
-- Renato Ribeiro (<a href="mailto:renato.ribeiro@academico.ifpb.edu.br"> E-mail</a>)
-- Renato Xavier (<a href="mailto:renato.ribeiro@academico.ifpb.edu.br"> E-mail</a>)
+- Helio Siqueira (<a href="mailto:helio.siqueira@academico.ifpb.edu.br">E-mail</a>)
+- Renato Ribeiro (<a href="mailto:renato.ribeiro@academico.ifpb.edu.br">E-mail</a>)
+- Renato Xavier (<a href="mailto:renato.ribeiro@academico.ifpb.edu.br">E-mail</a>)
