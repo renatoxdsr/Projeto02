@@ -7,7 +7,7 @@
 ## Indice
 
 - [sobre](#-Sobre)
-- [o que é o site?](#-O-que-é-o-site?)
+- [o que é o site?](#-O-que-e-o-site?)
 - [ferramentas usadas](#-Ferramentas-usadas)
 - [desenvolvedores do projeto](#-Desenvolvedores-do-projeto)
 
