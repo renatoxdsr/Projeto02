@@ -8,8 +8,8 @@
 
 - [sobre](#-Sobre)
 - [o que é o site?](#-O-que-é-o-site?)
-- [sobre](#-Ferramentas-usadas)
-- [sobre](#-Desenvolvedores-do-projeto)
+- [ferramentas usadas](#-Ferramentas-usadas)
+- [desenvolvedores do projeto](#-Desenvolvedores-do-projeto)
 
 ## 🧧 Sobre
 
