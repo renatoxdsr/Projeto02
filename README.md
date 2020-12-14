@@ -1,6 +1,6 @@
 <h1>
   <img src="/pagina-menu.jpg" width=600px, height=400px>
-  <p><b>InterLinguas🌏🌎🌍</b></p>
+  <p><strong>InterLinguas🌏🌎🌍</strong></p>
   <p><i>Você desenvolvendo o conhecimento de uma nova lingua🙌📚</b></p>
 </h1>
 
