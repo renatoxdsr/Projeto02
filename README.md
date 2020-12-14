@@ -1,5 +1,5 @@
 <h1>
-  <img src="/pagina-menu.jpg" width=200px, height=200px>
+  <img src="/pagina-menu.jpg" width=400px, height=600px>
   <p><b>InterLinguas</b></p>
   <p><i>🌏🌎🌍Você desenvolvendo o conhecimento de uma nova lingua🙌📚</b></p>
 </h1>
