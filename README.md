@@ -1,5 +1,5 @@
 <h1>
-  <img src="/pagina-menu.jpg">
+  <img src="/pagina-menu.jpg" width:80px, height:80px>
   <p><b>InterLinguas</b></p>
   <p><i>🌏🌎🌍Você desenvolvendo o conhecimento de uma nova lingua🙌📚</b></p>
 </h1>
@@ -31,7 +31,7 @@ _Funcionalidade_:
 - HTML
 - CSS
 
-## Desenvolvedores do projeto:
+##👨‍💻👨‍💻👨‍💻 Desenvolvedores do projeto:
 
 - Helio Siqueira (<a href="emailto:helio.siqueira@academico.ifpb.edu.br"> E-mail</a>)
 - Renato Ribeiro (<a href="emailto:renato.ribeiro@academico.ifpb.edu.br"> E-mail</a>)
