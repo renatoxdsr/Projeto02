@@ -37,7 +37,7 @@ _Funcionalidades_:
 - HTML
 - CSS
 
-##👨‍💻👨‍💻👨‍💻 Desenvolvedores do projeto:
+## 👨‍💻👨‍💻👨‍💻 Desenvolvedores do projeto:
 
 - Helio Siqueira (<a href="mailto:helio.siqueira@academico.ifpb.edu.br">E-mail</a>)
 - Renato Ribeiro (<a href="mailto:renato.ribeiro@academico.ifpb.edu.br">E-mail</a>)
